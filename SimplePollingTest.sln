@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePollingTest", "SimplePollingTest\SimplePollingTest.csproj", "{FC7DBC9A-FF24-41A0-B499-C6398468937A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePollingTests", "SimplePollingTests\SimplePollingTests.csproj", "{D0DEEFE2-8756-46AA-9DB9-593D9C2FC059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7DBC9A-FF24-41A0-B499-C6398468937A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7DBC9A-FF24-41A0-B499-C6398468937A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7DBC9A-FF24-41A0-B499-C6398468937A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7DBC9A-FF24-41A0-B499-C6398468937A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DEEFE2-8756-46AA-9DB9-593D9C2FC059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DEEFE2-8756-46AA-9DB9-593D9C2FC059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DEEFE2-8756-46AA-9DB9-593D9C2FC059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DEEFE2-8756-46AA-9DB9-593D9C2FC059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECA3C7C-E79A-4686-8C02-ED142717E3F4}
+	EndGlobalSection
+EndGlobal
