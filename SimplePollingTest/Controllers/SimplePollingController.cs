@@ -40,7 +40,7 @@ namespace SimplePollingTest.Controllers
             return "Timeout";
         }
 
-        [HttpGet]
+        [HttpPost]
         [Route("set")]
         public void Set(string value)
         {
